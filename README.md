@@ -1,5 +1,5 @@
 # ✨ WELCOME ✨
-### 🐼 HYH1016 | 하이현
+### 🐼 hyh1016 | 하이현
 #### 만들고 싶은 거 만들면서 성장하는 Web Fullstack Developer
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyh1016&show_icons=true&title_color=00b3ff&locale=en" alt="hyh1016" /></p>
@@ -26,3 +26,6 @@
   <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
   </p>
 
+## Tech Blog
+
+[🐼 팬팬의 개발 일지](https://devpanpan.tistory.com/)

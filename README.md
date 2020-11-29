@@ -2,9 +2,9 @@
 ### 🐼 HYH1016 | 하이현
 #### 만들고 싶은 거 만들면서 성장하는 Web Fullstack Developer
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyh1016&show_icons=true&locale=en&layout=compact" alt="hyh1016" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyh1016&show_icons=true&title_color=00b3ff&locale=en" alt="hyh1016" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyh1016&show_icons=true&locale=en&layout=compact" alt="hyh1016" /></p>
 
 <h2 align="left">Tech Stack</h3>
 <p align="left">

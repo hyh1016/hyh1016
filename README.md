@@ -1,6 +1,6 @@
 # ✨ WELCOME ✨
 ### 🐼 hyh1016 | 하이현
-#### 리팩토링 좋아하는 BackEnd Developer
+#### Refactoring을 좋아하는 BackEnd Developer
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyh1016&show_icons=true&title_color=00b3ff&locale=en" alt="hyh1016" /></p>
 
@@ -18,10 +18,9 @@
   <a href="https://babeljs.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/> </a>
   
   <h3>BackEnd</h3>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
   </a> <a href="https://expressjs.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://spring.io/"> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a>
   
   <h3>Database</h3>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>

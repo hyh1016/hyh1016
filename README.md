@@ -1,5 +1,3 @@
-<h1 align="center"><b>🌈 ᴡ ᴇ ʟ ᴄ ᴏ ᴍ ᴇ 🌈</b></h1>
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=22AAFF&height=200&section=header&text=Yihyun%20Ha&fontSize=90&&fontColor=ffffff" />
 </p>

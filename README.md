@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hyh1016&show_icons=true&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=hyh1016&show_icons=true&theme=prussian" />
 </p>
 
 <h2 align="center">💎 ᴛᴇᴄʜ sᴛᴀᴄᴋ</h3>

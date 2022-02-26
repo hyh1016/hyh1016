@@ -27,7 +27,7 @@
 </p>
 
 
-<h2 align="center">🤝 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ</h3>
+<h2 align="center">🤝 ᴄᴏɴᴛᴀᴄᴛ</h3>
 <p align="center">
 <a href="mailto:hihyun16@gmail.com"><img src="https://img.shields.io/badge/Gmail-008299?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://devpanpan.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=Bloglovin&logoColor=white" /></a>
